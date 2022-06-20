@@ -1,6 +1,6 @@
-Git
+# **Git**
 
-Controle de Versão (VCS - Version Control System)
+### **Controle de Versão** (VCS - Version Control System)
 
 Isso é o que realmente deveriamos focar dentro do Git!
 
