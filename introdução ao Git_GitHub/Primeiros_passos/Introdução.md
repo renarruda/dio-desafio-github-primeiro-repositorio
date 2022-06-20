@@ -1,5 +1,7 @@
 # **Git**
 
+[onde baixar? aqui!](https://git-scm.com/downloads)
+
 ### **Controle de Versão** (VCS - Version Control System)
 
 Isso é o que realmente deveriamos focar dentro do Git!
@@ -24,7 +26,7 @@ Caso aconteça algo com o servidor principal, é possível recuperar uma cópia 
 
 Como podemos perceber, todas as alterações, ou quase todas, são feitas localmente, isso permite que o desenvolvedor possa trabalhar nos objetos dentro de um repositório, mesmo offline, e o comitar assim que possível, estando online.
 
-
+Referência: [Git - Documentação](https://git-scm.com/book/pt-br/v2)
 
 
 
